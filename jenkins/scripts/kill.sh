@@ -1,5 +1,6 @@
 #!/usr/bin/env sh
 
 set -x
-docker kill my-apache-php-app
-docker rm my-apache-php-app
+docker kill Jenkins-Lab-7b
+docker rm Jenkins-Lab-7b
+# rm means remove
